@@ -4,21 +4,24 @@
       "Texas": 2,
       "Florida": 3,
       "New York": 2,
-      "Illinois": 1
+      "Illinois": 1,
+      "Massachusetts": 1
     },
     "map2": {
       "California": 2,
       "Texas": 3,
       "Florida": 1,
       "New York": 3,
-      "Illinois": 2
+      "Illinois": 2,
+      "Massachusetts": 2
     },
     "map3": {
       "California": 3,
       "Texas": 1,
       "Florida": 2,
       "New York": 1,
-      "Illinois": 3
+      "Illinois": 3,
+      "Massachusetts": 3
     }
   }
   
